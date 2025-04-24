@@ -109,7 +109,8 @@ Her API çağrısı için saniyede 10 isteğe kadar ücretsiz.
 
 ## 🖼️ Örnek Ekran Görüntüleri 
 
-> LSTM Tahmin Grafiği  ![LSTM Tahmini](Grafik.png)
+> 📈 LSTM Tahmin Grafiği
+![LSTM Tahmini](Grafik.PNG)
 > Telegram'dan gelen uyarı mesajı  
 > Anlık takip terminal çıktısı  
 > Portföy hesaplama tablosu
